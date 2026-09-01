@@ -61,4 +61,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B98BD9,50:E8A0C8,100:FFD6E8&height=100&section=footer" alt="footer" />
 
 </div>
->>>>>>> 1685e65 (Cambios pequeños)
